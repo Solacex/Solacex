@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Guangrui Li, a second-year Ph.D. student in UTS.
+
+Working on domain adaptation and its application to computer vision. 
 <!--START_SECTION:waka-->
 ```text
 Python   9 hrs 34 mins   ████████████████████████▓   98.73 % 
