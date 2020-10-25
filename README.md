@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+```text
+Python   9 hrs 34 mins   ████████████████████████▓   98.73 % 
+YAML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+```
 <!--END_SECTION:waka-->
