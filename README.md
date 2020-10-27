@@ -19,7 +19,7 @@ I am Guangrui Li, a second-year Ph.D. student in UTS.
 Working on domain adaptation and its application to computer vision. 
 <!--START_SECTION:waka-->
 ```text
-Python   9 hrs 34 mins   ████████████████████████▓   98.73 % 
-YAML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python   9 hrs 15 mins   ███████████████████████▓░   94.25 % 
+YAML     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 <!--END_SECTION:waka-->
