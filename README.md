@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Guangrui Li, a second-year Ph.D. student in UTS.
+
 You can reach me via Email(guangrui.li@outlook,com) or WeChat(Li_Guangrui)
 
 Working on domain adaptation and its application to computer vision. 
