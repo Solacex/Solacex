@@ -21,10 +21,10 @@ You can reach me via Email(guangrui.li@outlook.com) or WeChat(Li_Guangrui)
 Working on domain adaptation and its application to computer vision. 
 <!--START_SECTION:waka-->
 ```text
-Python   10 hrs          ██████████████████████▒░░   88.98 % 
-YAML     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Text     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-VimL     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Bash     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python   13 hrs 59 mins  ██████████████████████░░░   87.85 % 
+YAML     1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Text     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+VimL     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Bash     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
