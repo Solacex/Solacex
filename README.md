@@ -21,8 +21,8 @@ You can reach me via Email.
 Working on domain adaptation and its application to computer vision. 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 8 mins     ███████████████████░░░░░░   75.60 % 
-Text     15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 % 
-YAML     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Python   47 mins         ████████████████████▒░░░░   81.76 % 
+Text     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+YAML     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 <!--END_SECTION:waka-->
