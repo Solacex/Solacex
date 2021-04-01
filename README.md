@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Guangrui Li, a second-year Ph.D. student in UTS.
+I am Guangrui Li, a second-year Ph.D. student in [ReLER](reler.net) lab, UTS.
 
 You can reach me via Email.
 
