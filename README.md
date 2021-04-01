@@ -20,7 +20,7 @@ You can reach me via Email.
 
 Working on domain adaptation and its application to computer vision, e.g. Universal Domain Adaptation, DA in semantic segmentation. 
 
-Accepted Papers: 
+Publications:
 
    [ECCV2020] [Content-Consistent Matching for Domain Adaptive Semantic Segmentation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590426.pdf) [[Code]](https://github.com/Solacex/CCM)
 
