@@ -18,7 +18,7 @@ I am Guangrui Li, a second-year Ph.D. student in UTS.
 
 You can reach me via Email.
 
-Working on domain adaptation and its application to computer vision. 
+Working on domain adaptation and its application to computer vision, e.g. Universal Domain Adaptation, DA in semantic segmentation. 
 <!--START_SECTION:waka-->
 ```text
 Python   5 hrs 14 mins   ██████████████████▓░░░░░░   74.71 % 
