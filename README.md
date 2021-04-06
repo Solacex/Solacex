@@ -14,17 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Guangrui Li, a second-year Ph.D. student in [ReLER](http://www.reler.net) lab, UTS.
+I am [Guangrui Li](http://www.guangrui.li), a second-year Ph.D. student in [ReLER](http://www.reler.net) lab, UTS.
 
 You can reach me via Email.
 
 Working on domain adaptation and its application to computer vision, e.g. Universal Domain Adaptation, DA in semantic segmentation. 
 
-Publications:
-
-   [ECCV2020] [Content-Consistent Matching for Domain Adaptive Semantic Segmentation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590426.pdf) [[Code]](https://github.com/Solacex/CCM)
-
-   [CVPR2021] [Domain Consensus Clustering for Universal Domain Adaptation](http://reler.net/papers/guangrui_cvpr2021.pdf) [[Code]](https://github.com/Solacex/Domain-Consensus-Clustering)
 
 <!--START_SECTION:waka-->
 ```text
