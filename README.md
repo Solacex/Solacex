@@ -23,9 +23,10 @@ Working on domain adaptation and its application to computer vision, e.g. Univer
 
 <!--START_SECTION:waka-->
 ```text
-Python   8 hrs 22 mins   ███████████████████░░░░░░   75.55 % 
-Text     2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-YAML     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python   10 hrs 11 mins  ██████████████████▒░░░░░░   73.98 % 
+Text     2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
+HTML     42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+YAML     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Other    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
