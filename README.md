@@ -22,7 +22,9 @@ Working on domain adaptation and its application to computer vision, e.g. Univer
 
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
