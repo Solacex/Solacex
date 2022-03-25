@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am [Guangrui Li](http://www.guangrui.li), a second-year Ph.D. student in [ReLER](http://www.reler.net) lab, UTS.
 
-You can reach me via Email.
+You can reach me via Email: guangrui.li at outlook.com
 
 Working on domain adaptation and its application to computer vision, e.g. Universal Domain Adaptation, DA in semantic segmentation. 
 
